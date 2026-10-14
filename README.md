@@ -38,3 +38,5 @@ python praktik/utilitas_matematika.py
 
 ## Refleksi
 Melalui tugas ini, saya belajar membuat dan memanggil fungsi, menggunakan parameter, mengembalikan nilai dengan `return`, serta memahami variabel lokal. Saya juga belajar menggabungkan beberapa fungsi matematika ke dalam satu program berbasis menu.
+## Catatan Pengembangan
+Program utilitas matematika menggunakan beberapa fungsi terpisah untuk menghitung luas persegi panjang, luas segitiga, jumlah bilangan, dan faktorial. Setiap fungsi dipanggil melalui menu yang dipilih pengguna.
